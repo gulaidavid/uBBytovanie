@@ -2,7 +2,7 @@
 
 wamp
 
-Fričová - dizajn
+Fričová - dizajn <br>
 Samuelčíková - vytvorenie headeru
 Jánošík - tester
 Huňorová - zbieranie dát
