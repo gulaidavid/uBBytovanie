@@ -2,11 +2,11 @@
 
 wamp
 
-Fričová - dizajn <br>
-Samuelčíková - vytvorenie headeru
-Jánošík - tester
-Huňorová - zbieranie dát
-Gulai - tvorba vo wordpresse
-Šipikal - tvorba vo wordpresse
-Boroš - tvorba vo wordpresse
-Žabka - tvorba loga
+Fričová - dizajn<br>
+Samuelčíková - vytvorenie headeru<br>
+Jánošík - tester<br>
+Huňorová - zbieranie dát<br>
+Gulai - tvorba vo wordpresse<br>
+Šipikal - tvorba vo wordpresse<br>
+Boroš - tvorba vo wordpresse<br>
+Žabka - tvorba loga<br>
